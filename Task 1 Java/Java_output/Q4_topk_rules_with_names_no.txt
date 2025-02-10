@@ -1,0 +1,10 @@
+marital=married  ==> subscribed=no #SUP: 24459 #CONF: 0.8987653413684134
+default_credit=no call_duration=100-500s  ==> subscribed=no #SUP: 25538 #CONF: 0.8988139232041671
+call_duration=100-500s  ==> subscribed=no #SUP: 26044 #CONF: 0.900117508813161
+default_credit=no loan=no past_marketing=unknown  ==> subscribed=no #SUP: 27371 #CONF: 0.9015777858295728
+loan=no past_marketing=unknown  ==> subscribed=no #SUP: 27814 #CONF: 0.901997665066805
+default_credit=no loan=no  ==> subscribed=no #SUP: 32685 #CONF: 0.8726937761995034
+default_credit=no past_marketing=unknown  ==> subscribed=no #SUP: 32862 #CONF: 0.9077649788679871
+loan=no  ==> subscribed=no #SUP: 33162 #CONF: 0.8734427265783443
+past_marketing=unknown  ==> subscribed=no #SUP: 33573 #CONF: 0.9083849671257339
+default_credit=no  ==> subscribed=no #SUP: 39159 #CONF: 0.8820389224254437

@@ -1,0 +1,5 @@
+default_credit=no marital=married #SUP: 2735
+default_credit=no age=21-30s #SUP: 2781
+default_credit=no loan=no call_duration=100-500s #SUP: 2712
+default_credit=no loan=no housing=no #SUP: 3120
+default_credit=no loan=no past_marketing=unknown #SUP: 2988

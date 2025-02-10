@@ -1,0 +1,5 @@
+default_credit=no housing=yes #SUP: 22789
+default_credit=no marital=married #SUP: 24031
+default_credit=no loan=no call_duration=100-500s #SUP: 21217
+default_credit=no past_marketing=unknown call_duration=100-500s #SUP: 21352
+default_credit=no past_marketing=unknown loan=no #SUP: 27371

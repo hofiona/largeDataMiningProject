@@ -1,0 +1,10 @@
+past_marketing=unknown  ==> subscribed=no #SUP: 33573 #CONF: 0.908
+default_credit=no past_marketing=unknown  ==> subscribed=no #SUP: 32862 #CONF: 0.908
+loan=no past_marketing=unknown  ==> subscribed=no #SUP: 27814 #CONF: 0.902
+default_credit=no loan=no past_marketing=unknown  ==> subscribed=no #SUP: 27371 #CONF: 0.902
+call_duration=100-500s  ==> subscribed=no #SUP: 26044 #CONF: 0.900
+default_credit=no call_duration=100-500s  ==> subscribed=no #SUP: 25538 #CONF: 0.899
+marital=married  ==> subscribed=no #SUP: 24459 #CONF: 0.899
+default_credit=no  ==> subscribed=no #SUP: 39159 #CONF: 0.882
+loan=no  ==> subscribed=no #SUP: 33162 #CONF: 0.873
+default_credit=no loan=no  ==> subscribed=no #SUP: 32685 #CONF: 0.873

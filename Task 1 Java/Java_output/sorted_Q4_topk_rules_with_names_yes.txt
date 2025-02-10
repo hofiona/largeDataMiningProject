@@ -1,0 +1,10 @@
+default_credit=no past_marketing=success  ==> subscribed=yes #SUP: 978 #CONF: 0.648
+past_marketing=success  ==> subscribed=yes #SUP: 978 #CONF: 0.647
+loan=no call_duration=500-1k  ==> subscribed=yes #SUP: 1448 #CONF: 0.394
+default_credit=no loan=no call_duration=500-1k  ==> subscribed=yes #SUP: 1428 #CONF: 0.393
+call_duration=500-1k  ==> subscribed=yes #SUP: 1646 #CONF: 0.380
+default_credit=no call_duration=500-1k  ==> subscribed=yes #SUP: 1614 #CONF: 0.379
+loan=no past_marketing=unknown call_duration=500-1k  ==> subscribed=yes #SUP: 1079 #CONF: 0.360
+default_credit=no loan=no past_marketing=unknown call_duration=500-1k  ==> subscribed=yes #SUP: 1061 #CONF: 0.359
+past_marketing=unknown call_duration=500-1k  ==> subscribed=yes #SUP: 1242 #CONF: 0.350
+default_credit=no past_marketing=unknown call_duration=500-1k  ==> subscribed=yes #SUP: 1214 #CONF: 0.349
